@@ -1,0 +1,47 @@
+{
+    "variable_dict": {
+        "INTEGER": {
+            "GLOBAL_BAG_MAX_NUM": 0, 
+            "InputCacheNum": 0
+        }, 
+        "TABLE": {
+            "UI_Manager": null
+        }, 
+        "UNIT_ENTITY": {}, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UI_Manager", 
+                "UI_Manager"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GLOBAL_BAG_MAX_NUM", 
+                "GLOBAL_BAG_MAX_NUM"
+            ]
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "InputCacheNum", 
+                        "InputCacheNum"
+                    ]
+                }
+            ], 
+            "key": "MNPguF4kEfC98lW1ngxjBY", 
+            "name": "\u57fa\u7840\u89d2\u8272\u63a7\u5236\u6a21\u5f0f_\u5168\u5c40\u53d8\u91cf"
+        }
+    ], 
+    "variable_length_dict": {
+        "GLOBAL_BAG_MAX_NUM": 0, 
+        "InputCacheNum": 0, 
+        "UI_Manager": 0
+    }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository>
+<Items>
+<Item><Type>Material</Type><Flags>0</Flags><GUID>666e6a19-1ef8-4930-8080-4a7e747a8052</GUID><Package>Fx_Effect/Realism/Fx_Ui</Package><Class>Material</Class><Deps>8e862ec6-1e6f-43b6-9b0f-fcb43c728cca</Deps><Name>Ui_block_copy_mat</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>ParticleSystem</Type><Flags>0</Flags><GUID>6ec354e8-c083-43c5-be86-a9d01b605c99</GUID><Package>Fx_Effect/Realism/Fx_Ui</Package><Class>ParticleSystem</Class><Deps>666e6a19-1ef8-4930-8080-4a7e747a8052</Deps><Name>Ui_block_copy</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>b2e4d57c-8292-4ed5-84a2-48a26e112515</GUID><Package>ui</Package><Class>Texture2D</Class><Name>new_independ_billboard_batch_ui_0</Name><Annotation><SourcePath>D:/kk_.1087506/temp.png</SourcePath><CreationTime>1751016204</CreationTime><MD5>fa2ae5f1745fd817bb3f999e716525e2</MD5></Annotation></Item>
+</Items>
+</Repository>

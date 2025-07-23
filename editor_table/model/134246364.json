@@ -1,0 +1,13 @@
+{
+    "custom": true, 
+    "effect_keep": true, 
+    "effect_max_life": -1, 
+    "effect_path": "Fx_Effect/Realism/Fx_Ui/Ui_block_copy", 
+    "is_beam_effect": false, 
+    "meshes": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "model_id": 134246364, 
+    "name": "\u84dd\u8272\u65b9\u5f62"
+}

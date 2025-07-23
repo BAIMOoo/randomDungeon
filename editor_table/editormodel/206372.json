@@ -1,0 +1,31 @@
+{
+    "describe": 1090980624, 
+    "editor_res": false, 
+    "key": 206372, 
+    "map_name": "dm1_\u573a\u666f", 
+    "model_id": 551015, 
+    "name": 1427514569, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "P14(\u4e8c\u6b21\u5143\u5b66\u9662\u7cfb\u5217)"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/206372", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_model_Scene", 
+    "rigidbody_offset": [
+        0.0, 
+        1.05, 
+        0.0
+    ], 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_206372"
+}
