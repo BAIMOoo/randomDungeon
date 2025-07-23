@@ -13,3 +13,7 @@ maps\EntryMap\script\dungeonGenerate.lua
 
 ## 项目环境
 Y3编辑器 https://163.com/y3/
+
+## 效果预览
+
+![image](https://github.com/BAIMOoo/randomDungeon/blob/master/preview.gif)
